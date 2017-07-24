@@ -221,7 +221,7 @@ Here is a table of the available emojis and their aliases.
 | 👤 | bust_in_silhouette | 😉 | wink |
 | 🔴 | red_circle | 🎽 | running_shirt_with_sash |
 | 🙃 | upside_down, flipped_face | 📰 | newspaper |
-| 🙃 | upside_down, flipped_face | 📇 | card_index |
+| 📇 | card_index |
 | 🏵 | rosette | 🖍 | lower_left_crayon |
 | 😫 | tired_face | 🌶 | hot_pepper, chili_pepper, spice, spicy |
 | 🏴 | waving_black_flag | 👠 | high_heel |
